@@ -1,0 +1,9 @@
+.idea/
+*.iml
+target/
+.mvn/
+mvnw*
+.DS_Store
+.dockerignore
+.kube/
+.med/
